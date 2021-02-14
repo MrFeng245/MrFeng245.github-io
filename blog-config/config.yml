@@ -1,1 +1,13 @@
-
+title: MrFeng # 博客名称
+description: share # 博客简介
+url: http://mrfeng245.github.io # 博客url
+template: acyort-templates-donob-plus
+menu:
+  Archives: /archives/
+  Tags: /tags/
+repository: MrFeng245/blog-essay # 写 issues 的项目
+public: public
+timezone: Asia/Shanghai
+plugins:
+  - acyort-plugin-fetch-issues
+  - acyort-donob-renderer
