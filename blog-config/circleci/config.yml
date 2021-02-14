@@ -1,0 +1,25 @@
+# 注意这个文件名为 config.yml，在 .circleci 目录下
+version: 2
+jobs:
+  build:
+    docker:
+      - image: node:latest
+    working_directory: ~/acyort
+    branches:
+      only:
+        - master
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - yarn-packages-{{ checksum "yarn.lock" }}
+      - run: yarn install
+      - save_cache:
+          name: Save Yarn Package Cache
+          key: yarn-packages-{{ checksum "yarn.lock" }}
+          paths:
+            - ~/.cache/yarn
+      - run: yarn deploy
+      - run: git config user.name "" # 你的 github username
+      - run: git config user.email "" # 你的 github email
+      - run: npx gh-pages -d public -r https://${gh_token}@github.com/username/username.github.io.git -b master -m "Updated by circleci - `date`" # ${gh_token}, 这个token就是具有写权限的github token, 会在 circleci 配置。
