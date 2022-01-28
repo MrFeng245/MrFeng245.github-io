@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-25T14:16:04.592Z</updated>
+  <updated>2022-01-28T03:09:25.221Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写作中的单词_课程说明</title>
+    <link href="http://example.com/2022/01/28/%E8%8B%B1%E8%AF%AD/%E5%86%99%E4%BD%9C%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D_%E8%AF%BE%E7%A8%8B%E8%AF%B4%E6%98%8E/"/>
+    <id>http://example.com/2022/01/28/%E8%8B%B1%E8%AF%AD/%E5%86%99%E4%BD%9C%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D_%E8%AF%BE%E7%A8%8B%E8%AF%B4%E6%98%8E/</id>
+    <published>2022-01-28T02:58:29.000Z</published>
+    <updated>2022-01-28T03:09:25.221Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;&lt;font</summary>
+        
+      
+    
+    
+    
+    <category term="英语" scheme="http://example.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="英语写作" scheme="http://example.com/tags/%E8%8B%B1%E8%AF%AD%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="学单词" scheme="http://example.com/tags/%E5%AD%A6%E5%8D%95%E8%AF%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>宿命论</title>
@@ -47,16 +74,14 @@
     <link href="http://example.com/2022/01/23/%E8%8B%B1%E8%AF%AD/%E3%80%90%E7%AC%AC%E4%BA%8C%E8%AE%B2%E3%80%91stuff%E5%92%8Cobject/"/>
     <id>http://example.com/2022/01/23/%E8%8B%B1%E8%AF%AD/%E3%80%90%E7%AC%AC%E4%BA%8C%E8%AE%B2%E3%80%91stuff%E5%92%8Cobject/</id>
     <published>2022-01-23T13:39:48.020Z</published>
-    <updated>2022-01-24T10:27:46.831Z</updated>
+    <updated>2022-01-28T03:02:28.598Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;&lt;font color=&#39;cornflowerblue&#39;&gt;前言&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&amp;emsp;&amp;emsp;&lt;strong&gt;面向考试&lt;/strong&gt;，其中万年不变的是写作和阅读，阅读背单词即可，如果不放心可以看我之前的四级备考篇，学点技巧；至于写作，目前在探索阶段，本课堂就是为了探索英语写作而生的。  &lt;/p&gt;
-&lt;p&gt;&amp;emsp;&amp;emsp;为什么写完句子之后不放心：  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1、担心拼写错误&lt;/li&gt;
-&lt;li&gt;2、担心语法错误&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;单词那么多，一个字母不漏的记下确实会劝退很多人，所以follow me&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;今日讲堂&quot;&gt;&lt;a href=&quot;#今日讲堂&quot; class=&quot;headerlink&quot; title=&quot;今日讲堂&quot;&gt;&lt;/a&gt;&lt;font color=&#39;cornflowerblue&#39;&gt;今日讲堂&lt;/font&gt;&lt;/h1&gt;&lt;h2 id=&quot;stuff&quot;&gt;&lt;a href=&quot;#stuff&quot; class=&quot;headerlink&quot; title=&quot;stuff&quot;&gt;&lt;/a&gt;&lt;font color=&#39;orange&#39;&gt;stuff&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;①用来指代一个东西（&lt;strong&gt;你不知道名字&lt;/strong&gt;/名字不重要/所说之物的名字显而易见）&lt;/li&gt;
+&lt;li&gt;②指人们所说、所做、所想的一般范畴&lt;/li&gt;
+&lt;li&gt;③某些最重要或最基础的特征&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -94,16 +119,14 @@
     <link href="http://example.com/2022/01/18/%E8%8B%B1%E8%AF%AD/%E3%80%90%E7%AC%AC%E4%B8%80%E8%AE%B2%E3%80%91moment%E5%92%8Cspan/"/>
     <id>http://example.com/2022/01/18/%E8%8B%B1%E8%AF%AD/%E3%80%90%E7%AC%AC%E4%B8%80%E8%AE%B2%E3%80%91moment%E5%92%8Cspan/</id>
     <published>2022-01-18T14:08:12.117Z</published>
-    <updated>2022-01-23T14:02:45.760Z</updated>
+    <updated>2022-01-28T03:01:48.847Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;&lt;font color=&#39;cornflowerblue&#39;&gt;前言&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&amp;emsp;&amp;emsp;&lt;strong&gt;面向考试&lt;/strong&gt;，其中万年不变的是写作和阅读，阅读背单词即可，如果不放心可以看我之前的四级备考篇，学点技巧；至于写作，目前在探索阶段，本课堂就是为了探索英语写作而生的。  &lt;/p&gt;
-&lt;p&gt;&amp;emsp;&amp;emsp;为什么写完句子之后不放心：  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1、担心拼写错误&lt;/li&gt;
-&lt;li&gt;2、担心语法错误&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;emsp;&amp;emsp;单词那么多，一个字母不漏的记下确实会劝退很多人，所以follow me&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;今日讲堂&quot;&gt;&lt;a href=&quot;#今日讲堂&quot; class=&quot;headerlink&quot; title=&quot;今日讲堂&quot;&gt;&lt;/a&gt;&lt;font color=&#39;cornflowerblue&#39;&gt;今日讲堂&lt;/font&gt;&lt;/h1&gt;&lt;h2 id=&quot;moment-s&quot;&gt;&lt;a href=&quot;#moment-s&quot; class=&quot;headerlink&quot; title=&quot;moment-s&quot;&gt;&lt;/a&gt;&lt;font color=&#39;orange&#39;&gt;moment-s&lt;/font&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;①一个非常短的人生&lt;/li&gt;
+&lt;li&gt;②一个精确的时间&lt;/li&gt;
+&lt;li&gt;③&lt;strong&gt;一个特殊的场合，做一些事的时光&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
